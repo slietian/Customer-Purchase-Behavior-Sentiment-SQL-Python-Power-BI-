@@ -122,7 +122,7 @@ This project involves three core components:
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/RafiQamar/Ecommerce-Analytics-Project.git
+   git clone https: https://github.com/slietian/Customer-Purchase-Behavior-Sentiment-SQL-Python-Power-BI-
    ```
 
 2. Set up the MySQL database:
